@@ -1,0 +1,26 @@
+1.  Terdapat 5 pilihan soal. Masukkan angka antara 1-5 untuk memilih soal yang akan dikerjakan.
+
+2.  Setelah memilih Tipe Soal, berikut Penggunaan untuk setiap soalnya.
+   
+	Soal 1 (Segitiga Alfabet) :
+        - Program akan menampilkan segitiga Alfabet
+
+    	Soal 2 (Segitiga Angka) :
+        - Masukkan angka yang diinginkan
+        - Program akan menampilkan segitiga angka sesuai yang diinputkan user
+
+    	Soal 3 (Faktorial) :
+        - Masukkan angka yang diinginkan
+        - Program akan menampilkan hasil faktorial dari angka yang diinput user
+
+    	Soal 4 (Membalik Angka) :
+        - Masukkan angka (bisa lebih dari 1 digit)
+        - Program akan menampilkan angka yang urutannya dimulai dari angka paling akhir ke angka paling awal
+    	
+	Soal 5 (Konversi Angka ke String) :
+        - Masukkan Angka (bisa lebih dari 1 digit)
+        - Program akan menampilkan String yang berisi penyebutan setiap angka
+
+3.  Setelah 1 Soal selesai dijalankan, User akan diberi pilihan (Y/N) untuk mencoba Soal lain.
+    Jika User memasukan Y, maka akan kembali ke step 2 (memilih soal).
+    Jika User memasukan N, maka program akan berhenti.
