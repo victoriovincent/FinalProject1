@@ -1,0 +1,16 @@
+C:\Users\User\Documents\Neon\Sesi05\Pesawat\obj\Debug\net5.0\Pesawat.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Neon\Sesi05\Pesawat\obj\Debug\net5.0\Pesawat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Neon\Sesi05\Pesawat\obj\Debug\net5.0\Pesawat.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Neon\Sesi05\Pesawat\obj\Debug\net5.0\Pesawat.AssemblyInfo.cs
+C:\Users\User\Documents\Neon\Sesi05\Pesawat\obj\Debug\net5.0\Pesawat.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Neon\Sesi05\Pesawat\bin\Debug\net5.0\Pesawat.exe
+C:\Users\User\Documents\Neon\Sesi05\Pesawat\bin\Debug\net5.0\Pesawat.deps.json
+C:\Users\User\Documents\Neon\Sesi05\Pesawat\bin\Debug\net5.0\Pesawat.runtimeconfig.json
+C:\Users\User\Documents\Neon\Sesi05\Pesawat\bin\Debug\net5.0\Pesawat.runtimeconfig.dev.json
+C:\Users\User\Documents\Neon\Sesi05\Pesawat\bin\Debug\net5.0\Pesawat.dll
+C:\Users\User\Documents\Neon\Sesi05\Pesawat\bin\Debug\net5.0\ref\Pesawat.dll
+C:\Users\User\Documents\Neon\Sesi05\Pesawat\bin\Debug\net5.0\Pesawat.pdb
+C:\Users\User\Documents\Neon\Sesi05\Pesawat\obj\Debug\net5.0\Pesawat.dll
+C:\Users\User\Documents\Neon\Sesi05\Pesawat\obj\Debug\net5.0\ref\Pesawat.dll
+C:\Users\User\Documents\Neon\Sesi05\Pesawat\obj\Debug\net5.0\Pesawat.pdb
+C:\Users\User\Documents\Neon\Sesi05\Pesawat\obj\Debug\net5.0\Pesawat.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\User\Documents\Neon\Sesi05\Overloading\obj\Debug\net5.0\Overloading.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Neon\Sesi05\Overloading\obj\Debug\net5.0\Overloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Neon\Sesi05\Overloading\obj\Debug\net5.0\Overloading.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Neon\Sesi05\Overloading\obj\Debug\net5.0\Overloading.AssemblyInfo.cs
+C:\Users\User\Documents\Neon\Sesi05\Overloading\obj\Debug\net5.0\Overloading.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Neon\Sesi05\Overloading\bin\Debug\net5.0\Overloading.exe
+C:\Users\User\Documents\Neon\Sesi05\Overloading\bin\Debug\net5.0\Overloading.deps.json
+C:\Users\User\Documents\Neon\Sesi05\Overloading\bin\Debug\net5.0\Overloading.runtimeconfig.json
+C:\Users\User\Documents\Neon\Sesi05\Overloading\bin\Debug\net5.0\Overloading.runtimeconfig.dev.json
+C:\Users\User\Documents\Neon\Sesi05\Overloading\bin\Debug\net5.0\Overloading.dll
+C:\Users\User\Documents\Neon\Sesi05\Overloading\bin\Debug\net5.0\ref\Overloading.dll
+C:\Users\User\Documents\Neon\Sesi05\Overloading\bin\Debug\net5.0\Overloading.pdb
+C:\Users\User\Documents\Neon\Sesi05\Overloading\obj\Debug\net5.0\Overloading.dll
+C:\Users\User\Documents\Neon\Sesi05\Overloading\obj\Debug\net5.0\ref\Overloading.dll
+C:\Users\User\Documents\Neon\Sesi05\Overloading\obj\Debug\net5.0\Overloading.pdb
+C:\Users\User\Documents\Neon\Sesi05\Overloading\obj\Debug\net5.0\Overloading.genruntimeconfig.cache
