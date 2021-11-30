@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Data\\H8\\014_DiniPuspitaSukmaA_Assignment3\\MoviesAPI\\MoviesAPI\\MoviesAPI.csproj": {}
+    "C:\\Users\\User\\Documents\\Neon\\Assignment03\\MoviesAPI\\MoviesAPI\\MoviesAPI.csproj": {}
   },
   "projects": {
-    "D:\\Data\\H8\\014_DiniPuspitaSukmaA_Assignment3\\MoviesAPI\\MoviesAPI\\MoviesAPI.csproj": {
+    "C:\\Users\\User\\Documents\\Neon\\Assignment03\\MoviesAPI\\MoviesAPI\\MoviesAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Data\\H8\\014_DiniPuspitaSukmaA_Assignment3\\MoviesAPI\\MoviesAPI\\MoviesAPI.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Documents\\Neon\\Assignment03\\MoviesAPI\\MoviesAPI\\MoviesAPI.csproj",
         "projectName": "MoviesAPI",
-        "projectPath": "D:\\Data\\H8\\014_DiniPuspitaSukmaA_Assignment3\\MoviesAPI\\MoviesAPI\\MoviesAPI.csproj",
-        "packagesPath": "C:\\Users\\acer\\.nuget\\packages\\",
-        "outputPath": "D:\\Data\\H8\\014_DiniPuspitaSukmaA_Assignment3\\MoviesAPI\\MoviesAPI\\obj\\",
+        "projectPath": "C:\\Users\\User\\Documents\\Neon\\Assignment03\\MoviesAPI\\MoviesAPI\\MoviesAPI.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\Documents\\Neon\\Assignment03\\MoviesAPI\\MoviesAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\acer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

@@ -21,6 +21,7 @@ namespace Kantor_WebAPI.Controllers
         }
 
         // GET: api/eployee
+         [HttpGet(Name = "get all")]
         public ActionResult<IEnumerable<EmployeeItem>> GetEmployeeItems()
         {
             _context = HttpContext.RequestServices.GetService(typeof(EmployeeContext)) as EmployeeContext;

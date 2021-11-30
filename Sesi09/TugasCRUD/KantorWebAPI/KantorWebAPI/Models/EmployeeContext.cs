@@ -28,7 +28,7 @@ namespace Kantor_WebAPI.Models
             using (MySqlConnection conn = GetConnection())
             {
                 conn.Open();
-                MySqlCommand cmd = new MySqlCommand("SELECT * FROM employees", conn);
+                MySqlCommand cmd = new MySqlCommand("SELECT * FROM employee", conn);
                 using (MySqlDataReader reader = cmd.ExecuteReader())
                 {
                     while (reader.Read())
@@ -54,7 +54,7 @@ namespace Kantor_WebAPI.Models
             using (MySqlConnection conn = GetConnection())
             {
                 conn.Open();
-                MySqlCommand cmd = new MySqlCommand("SELECT * FROM employees WHERE id =@id", conn);
+                MySqlCommand cmd = new MySqlCommand("SELECT * FROM employee WHERE id =@id", conn);
                 cmd.Parameters.AddWithValue("@id", id);
                 using (MySqlDataReader reader = cmd.ExecuteReader())
                 {
@@ -101,7 +101,7 @@ namespace Kantor_WebAPI.Models
             using (MySqlConnection conn=GetConnection())
             {
                 conn.Open();
-                string query = "INSERT INTO employees(nama,jenis_kelamin,alamat) VALUES (@nama,@jenis_kelamin,@alamat)";
+                string query = "INSERT INTO employee(nama,jenis_kelamin,alamat) VALUES (@nama,@jenis_kelamin,@alamat)";
                 try
                 {
                     using (MySqlCommand cmd = new MySqlCommand(query, conn))
@@ -128,7 +128,7 @@ namespace Kantor_WebAPI.Models
             using (MySqlConnection conn = GetConnection())
             {
                 conn.Open();
-                string query = "UPDATE employees SET nama=@nama, jenis_kelamin=@jenis_kelamin, alamat=@alamat WHERE id=@id";
+                string query = "UPDATE employee SET nama=@nama, jenis_kelamin=@jenis_kelamin, alamat=@alamat WHERE id=@id";
                 try
                 {
                     using (MySqlCommand cmd = new MySqlCommand(query, conn))
@@ -156,7 +156,7 @@ namespace Kantor_WebAPI.Models
             using (MySqlConnection conn = GetConnection())
             {
                 conn.Open();
-                string query = "DELETE FROM employees WHERE id=@id";
+                string query = "DELETE FROM employee WHERE id=@id";
                 try
                 {
                     using (MySqlCommand cmd = new MySqlCommand(query, conn))
