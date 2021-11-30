@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31911.196
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest_Mock", "UnitTest_Mock\UnitTest_Mock.csproj", "{FB672E23-42F7-4538-9AA4-000946ECD155}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnitTest_Mock", "UnitTest_Mock\UnitTest_Mock.csproj", "{FB672E23-42F7-4538-9AA4-000946ECD155}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTesting", "UnitTesting\UnitTesting.csproj", "{657E656B-317B-4304-80FB-0EB60B35F8D7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{FB672E23-42F7-4538-9AA4-000946ECD155}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FB672E23-42F7-4538-9AA4-000946ECD155}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FB672E23-42F7-4538-9AA4-000946ECD155}.Release|Any CPU.Build.0 = Release|Any CPU
+		{657E656B-317B-4304-80FB-0EB60B35F8D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{657E656B-317B-4304-80FB-0EB60B35F8D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{657E656B-317B-4304-80FB-0EB60B35F8D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{657E656B-317B-4304-80FB-0EB60B35F8D7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
